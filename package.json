@@ -1,6 +1,7 @@
 {
   "name": "navigation-bar",
   "private": true,
+  "homepage": "https://souravsspace.github.io/nav_framer/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
