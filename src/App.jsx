@@ -1,8 +1,8 @@
-import Navigation from "./components/Navigation"
+import NavCopy from "./components/NavCopy"
 
 function App() {
   return (
-      <Navigation />
+        <NavCopy/>
   )
 }
 
